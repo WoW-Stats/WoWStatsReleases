@@ -34,7 +34,7 @@ WoWStats reads your combat log and its bundled WoWStatsLogger addon while you pl
 |---|---|---|
 | Windows 10 and 11 (x64) | `wowstats_<version>_x64-setup.exe` | Yes |
 | Linux (x64) | `wowstats_<version>_amd64.AppImage` | Yes |
-| macOS | Not available yet | |
+| macOS | Not available yet | No |
 
 The `.sig` files and `latest.json` are used by the in-app updater; you do not need to download them.
 
