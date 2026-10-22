@@ -76,3 +76,7 @@ Installs of v0.3.7 or older cannot verify newer updates; download and install th
 ## Help and feedback
 
 Report bugs and suggest features through "Report an issue" in the app, or on [Discord](https://discord.gg/gjvQKPWgEn). When reporting a bug, attach the latest log file from Settings > Storage > Open Logs Folder.
+
+---
+
+<sub>World of Warcraft and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. WoWStats is not affiliated with or endorsed by Blizzard Entertainment.</sub>
